@@ -4,7 +4,7 @@ Simple code for the SALBP.
 
 The code provides:
 
-- Reader for .alb file format
+- Reader for .in2 file format
 - A greedy heuristic for the SALBP-1
 - An implementation of the Hoffmann heuristic for the SALBP-1 
 - A local search implementation for the SALBP-2 exploring the move and swap neighborhood.
